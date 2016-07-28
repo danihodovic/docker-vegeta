@@ -4,3 +4,4 @@ MAINTAINER Dani Hodovic
 
 RUN go get -u github.com/tsenart/vegeta
 
+WORKDIR /app
